@@ -12,3 +12,4 @@ const Cart = ({ cart }) => {
 };
 
 export default Cart;
+//cart added
